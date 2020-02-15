@@ -1,5 +1,5 @@
 {:paths ["src" "resources"]
- :deps { uk.org.russet/tawny-owl {:mvn/version "2.0.0"}}
+ :deps { uk.org.russet/tawny-owl {:mvn/version "2.0.2-SNAPSHOT"}}
  :aliases
  {:test {:extra-paths ["test"]
          :extra-deps {org.clojure/test.check {:mvn/version "0.10.0"}}}
